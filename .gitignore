@@ -1,1 +1,3 @@
-src/resources/db.properties
+./src/resources/db.properties
+./.settings
+./build
